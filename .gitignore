@@ -1,0 +1,22 @@
+# Arquivos de rascunho/testes
+testes.ipynb
+testes.py
+
+# Saídas geradas pelo gerar_relatorio.py
+figuras/
+alunos_com_clusters.csv
+
+# Base de dados (é baixada automaticamente do Kaggle pelo script)
+StudentsPerformance_with_headers.csv
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
