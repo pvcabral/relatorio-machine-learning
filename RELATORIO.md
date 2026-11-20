@@ -4,13 +4,13 @@
 
 ### Identificação
 
-| Nome | Matrícula |
-|---|---|
-| _[Nome do integrante 1]_ | _[Matrícula]_ |
-| _[Nome do integrante 2]_ | _[Matrícula]_ |
+| Nome
+|--- 
+| Paulo Victor Medeiros
+| Elke Rebouças
 
 * **Vídeo da apresentação:** _[link do vídeo]_
-* **Código:** _[link do repositório]_ (script `gerar_relatorio.py`)
+* **Código:** _[[link do repositório](https://github.com/pvcabral/relatorio-machine-learning)]_ (script `gerar_relatorio.py`)
 
 ### Informações Gerais
 
